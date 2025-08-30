@@ -1,2 +1,2 @@
-# TO-DO-LIST_python
-A simple To-Do List application using Python, Tkinter, and SQLite to add, remove, and manage daily tasks with a clean GUI.
+# TO-DO-LIST
+A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists
